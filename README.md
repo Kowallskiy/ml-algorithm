@@ -17,4 +17,4 @@ Python bindings for C++ code.
 
 * __Algorithms__: Implemented from scratch, focusing on efficiency and clarity.
 * __Pybind11 Integration__: All models are accessible in Python, demonstrating cross-language integration.
-* __Easy-to-Use Interface__: Python users can easily import and use the C++ models as they would with any native Python library.
+* __Easy-to-Use Interface__: Python users can easily import and use the C++ models as they would with any native Python library
